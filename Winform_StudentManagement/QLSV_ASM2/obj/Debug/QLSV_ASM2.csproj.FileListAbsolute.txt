@@ -1,0 +1,11 @@
+D:\Gib\QLSV_ASM2\QLSV_ASM2\bin\Debug\QLSV_ASM2.exe.config
+D:\Gib\QLSV_ASM2\QLSV_ASM2\bin\Debug\QLSV_ASM2.exe
+D:\Gib\QLSV_ASM2\QLSV_ASM2\bin\Debug\QLSV_ASM2.pdb
+D:\Gib\QLSV_ASM2\QLSV_ASM2\obj\Debug\QLSV_ASM2.csproj.AssemblyReference.cache
+D:\Gib\QLSV_ASM2\QLSV_ASM2\obj\Debug\QLSV_ASM2.csproj.SuggestedBindingRedirects.cache
+D:\Gib\QLSV_ASM2\QLSV_ASM2\obj\Debug\QLSV_ASM2.Form1.resources
+D:\Gib\QLSV_ASM2\QLSV_ASM2\obj\Debug\QLSV_ASM2.Properties.Resources.resources
+D:\Gib\QLSV_ASM2\QLSV_ASM2\obj\Debug\QLSV_ASM2.csproj.GenerateResource.cache
+D:\Gib\QLSV_ASM2\QLSV_ASM2\obj\Debug\QLSV_ASM2.csproj.CoreCompileInputs.cache
+D:\Gib\QLSV_ASM2\QLSV_ASM2\obj\Debug\QLSV_ASM2.exe
+D:\Gib\QLSV_ASM2\QLSV_ASM2\obj\Debug\QLSV_ASM2.pdb
